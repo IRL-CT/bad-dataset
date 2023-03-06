@@ -2,9 +2,10 @@
 layout: default
 ---
 
+``` TEMPLATE CONTENTS BELOW
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to paper](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -36,7 +37,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+``` TEMPLATE CONTENTS BELOW
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -115,6 +116,7 @@ end
 </dl>
 
 ```
+``` TEMPLATE CONTENTS BELOW
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
