@@ -1,6 +1,6 @@
-title: The BAD Dataset
+title: The Bystander Affect Detection Dataset for Failure Detection in HRI.
 #logo: /assets/img/logo.png
-description: The Bystander Affect Detection Dataset for Failure Detection in HRI. Bremers et al. (2023). This project is part of a collaborative research effort between Cornell Tech (PI: Wendy Ju) and Accenture Labs.
+description: Bremers et al. (2023). This project is part of a collaborative research effort between Cornell Tech (PI: Wendy Ju) and Accenture Labs.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
