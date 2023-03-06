@@ -2,6 +2,10 @@
 layout: default
 ---
 
+This project is part of a collaborative effort between Cornell Tech (PI: associate professor Wendy Ju) and Accenture Labs.
+Link to paper: (link)
+Link to dataset access request form: (link)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
