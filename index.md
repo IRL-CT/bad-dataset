@@ -7,13 +7,13 @@ We introduce the Bystander Affect Detection dataset -- a dataset of videos of by
 
 ![Sample of the BAD dataset](https://bad-dataset.tech.cornell.edu/assets/img/faces.png)
 
-This project is part of a collaborative research effort between Cornell Tech (PI: Associate Professor Wendy Ju) and Accenture Labs.
-
 Our video dataset may be requested for use in related research projects. As the dataset contains facial video data of our participants, access can be requested along with the presentation of a research protocol or data use agreement that protects participants.  
 
-Read our paper here: [link](./another-page.html).
+This project is part of a collaborative research effort between Cornell Tech (PI: Associate Professor Wendy Ju) and Accenture Labs.
 
-Request access to the BAD dataset here: [link](./another-page.html).
+Read our paper here: [link](https://arxiv.org).
+
+Request access to the BAD dataset here: [link](https://forms.gle/A6gQqhW2cc7oWQJ39).
 
 ## Dataset characteristics 
 
