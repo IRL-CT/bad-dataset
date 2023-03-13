@@ -9,7 +9,7 @@ Our video dataset may be requested for use in related research projects. As the 
 
 This project is part of a collaborative research effort between Cornell Tech (PI: Associate Professor Wendy Ju) and Accenture Labs.
 
-Read our paper here: [link](https://arxiv.org).
+Read our paper here: [link](https://arxiv.org/abs/2303.04835).
 
 Request access to the BAD dataset here: [link](https://forms.gle/2h7ZZmeh6vv9w4kb6).
 
