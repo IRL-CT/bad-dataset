@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<video src="https://bad-dataset.tech.cornell.edu/assets/video/merge3.mp4" controls="autoplay" style="max-width: 730px;">
+<video src="https://bad-dataset.tech.cornell.edu/assets/video/merge3.mp4" controls="autoplay" style="max-width: 500px;">
 </video>
+
+
 
 # A dataset of bystander facial reactions to human and robot failures.
 
