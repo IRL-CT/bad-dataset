@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<video src="https://bad-dataset.tech.cornell.edu/assets/video/merge3.mp4" controls="autoplay" style="max-width: 730px;">
+</video>
+
 # A dataset of bystander facial reactions to human and robot failures.
 
 We introduce the Bystander Affect Detection dataset -- a dataset of videos of bystander reactions to videos of failures. This dataset includes 2452 human reactions to failure, collected in contexts that approximate "in-the-wild" data collection -- including natural variances in webcam quality, lighting, and background.
@@ -21,8 +24,9 @@ The BAD Dataset covers:
 
 ## Dataset preview
 
-<video src="https://bad-dataset.tech.cornell.edu/assets/video/merge3.mp4" controls="controls" style="max-width: 730px;">
-</video>
+We provide a preview of the dataset by sharing the individual reaction videos to one stimulus video. This sample contains 53 reactions to QID106, which was a [video of a man playing guitar with a part of the guitar breaking off](https://www.jukinmedia.com/licensing/view/922314). The full BAD dataset contains the reaction videos to all 46 stimulus videos.
+
+Download the dataset preview here: [link.](https://bad-dataset.tech.cornell.edu/assets/video/BADdataset_sample_QID106.zip)
 
 ## Call for Robot Bloopers!
 
