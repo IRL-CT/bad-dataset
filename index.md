@@ -23,3 +23,7 @@ The BAD Dataset covers:
 
 A preview version of our dataset will be added soon.
 
+## Call for Robot Bloopers!
+
+We are currently in the process of creating the Robot Fail Database of robot failure videos as a resource for human-robot interaction research. If you are an HRI researcher and think you may have materials to contribute, please follow this [link](https://forms.gle/iEP3FXBLiTYyiso39) to the submission form. Contributing researchers will be given access to the dataset, full credit for their videos, and an HRI Transparency Champion digital diploma.
+
