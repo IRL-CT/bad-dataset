@@ -21,7 +21,8 @@ The BAD Dataset covers:
 
 ## Dataset preview
 
-A preview version of our dataset will be added soon.
+<video src="https://bad-dataset.tech.cornell.edu/assets/video/merge3.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Call for Robot Bloopers!
 
