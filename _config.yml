@@ -1,6 +1,7 @@
 title: The BAD Dataset for Failure Detection in HRI
 logo: https://far-lab.github.io/bad-dataset/assets/img/logo.png
 description: Bremers et al. (2023).
+url: https://arxiv.org/abs/2303.04835
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
