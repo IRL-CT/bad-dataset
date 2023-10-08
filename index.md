@@ -16,7 +16,7 @@ This project is part of a collaborative research effort between Cornell Tech (PI
 
 Read our paper here: [link](https://arxiv.org/abs/2303.04835).
 
-Request access to the BAD dataset here: [link](https://forms.gle/2h7ZZmeh6vv9w4kb6).
+Request access to the BAD dataset by sending a message via the button "Contact Owner" through the Qualitative Data Repository (best accessible through Google Chrome): [link](https://data.qdr.syr.edu/dataset.xhtml?persistentId=doi:10.5064/F6TAWBGS).
 
 ## Dataset characteristics 
 
@@ -30,7 +30,13 @@ We provide a preview of the dataset by sharing the individual reaction videos to
 
 Download the dataset preview here: [link.](https://bad-dataset.tech.cornell.edu/assets/video/BADdataset_sample_QID106.zip)
 
-## Call for Robot Bloopers!
+## How to cite our work
 
-We are currently in the process of creating the Robot Fail Database of robot failure videos as a resource for human-robot interaction research. If you are an HRI researcher and think you may have materials to contribute, please follow this [link](https://forms.gle/iEP3FXBLiTYyiso39) to the submission form. Contributing researchers will be given access to the dataset, full credit for their videos, and an HRI Transparency Champion digital diploma.
+Our paper has now been published at IROS:
+
+Bremers, A., Parreira, M.T., Fang, X., Friedman, N., Ramirez-Aristizabal, A., Pabst, A., Spasojevic, M., Kuniavsky, M. and Ju, W., 2023. The Bystander Affect Detection (BAD) Dataset for Failure Detection in HRI. In Proceedings of the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems. arXiv preprint arXiv:2303.04835.
+
+Our BAD dataset can be cited using its Qualitative Data Repository citation:
+
+Bremers, Alexandra; Fang, Xuanyu; Friedman, Natalie; Ju, Wendy. 2023. "Data for: The Bystander Affect Detection (BAD) Dataset for Failure Detection in HRI". Qualitative Data Repository. https://doi.org/10.5064/F6TAWBGS. QDR Main Collection. V1
 
