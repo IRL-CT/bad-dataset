@@ -40,3 +40,6 @@ Our BAD dataset can be cited using its Qualitative Data Repository citation:
 
 Bremers, Alexandra; Fang, Xuanyu; Friedman, Natalie; Ju, Wendy. 2023. "Data for: The Bystander Affect Detection (BAD) Dataset for Failure Detection in HRI". Qualitative Data Repository. https://doi.org/10.5064/F6TAWBGS. QDR Main Collection. V1
 
+For questions, please contact us! E-mail Alexandra Bremers: awb227@cornell.edu
+
+
