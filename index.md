@@ -5,6 +5,7 @@ layout: default
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/906586131?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Bremers et al. (2023) The BAD Dataset"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+
 # A dataset of bystander facial reactions to human and robot failures.
 
 We introduce the Bystander Affect Detection dataset -- a dataset of videos of bystander reactions to videos of failures. This dataset includes 2452 human reactions to failure, collected in contexts that approximate "in-the-wild" data collection -- including natural variances in webcam quality, lighting, and background.
