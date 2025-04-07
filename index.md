@@ -14,7 +14,7 @@ Our video dataset may be requested for use in related research projects. As the 
 
 This project is part of a collaborative research effort between Cornell Tech (PI: Associate Professor Wendy Ju) and Accenture Labs.
 
-Read our paper here: [link](https://arxiv.org/abs/2303.04835).
+Read our paper here: [link](https://ieeexplore.ieee.org/document/10342442).
 
 Request access to the BAD dataset by sending a message via the button "Contact Owner" through the Qualitative Data Repository (best accessible through Google Chrome): [link](https://data.qdr.syr.edu/dataset.xhtml?persistentId=doi:10.5064/F6TAWBGS).
 
@@ -26,12 +26,12 @@ The BAD Dataset covers:
 
 ## Dataset preview
 
-<video src="https://bad-dataset.tech.cornell.edu/assets/video/merge3.mp4" controls="autoplay" style="max-width: 500px;">
+<video src="https://irl-ct.github.io/bad-dataset/assets/video/merge3.mp4" controls="autoplay" style="max-width: 500px;">
 </video>
 
 We provide a preview of the dataset by sharing the individual reaction videos to one stimulus video. This sample contains 53 reactions to QID106, which was a [video of a man playing guitar with a part of the guitar breaking off](https://www.jukinmedia.com/licensing/view/922314). The full BAD dataset contains the reaction videos to all 46 stimulus videos.
 
-Download the dataset preview here: [link.](https://bad-dataset.tech.cornell.edu/assets/video/BADdataset_sample_QID106.zip)
+Download the dataset preview here: [link.](https://irl-ct.github.io/bad-dataset/assets/video/BADdataset_sample_QID106.zip)
 
 ## How to cite our work
 
